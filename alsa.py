@@ -1,6 +1,8 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
 
+# Documentação em: http://pyalsaaudio.sourceforge.net/libalsaaudio.html
+
 import alsaaudio
 
 print('ALSA Audio')
